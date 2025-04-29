@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Line-Follower Group Project</title>
 </head>
 <body>
     <h1>Line-Follower Group Project</h1>
