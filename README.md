@@ -16,8 +16,8 @@
     <h2>Project Team Members</h2>
     <p>This project was done by:</p>
     <ul>
-        <li>Krishnamurari Chivukula - ME23B233</li>
         <li>Soham Warde - ME23B204</li>
+        <li>Krishnamurari Chivukula - ME23B233</li>
         <li>Parth K Makati - ME23B234</li>
         <li>Srihari Prasad - ME23B249</li>
         <li>Lavlin Jaison - ME23B250</li>
